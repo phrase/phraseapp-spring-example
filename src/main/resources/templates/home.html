@@ -1,0 +1,14 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Getting Started: Serving Web Content</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script th:utext="${@phraseAppJavascriptHeader.getHeader()}"></script>
+</head>
+<body>
+    <div style="width:800px; margin: 0 auto;">
+      <h1 th:text="#{headline}"></h1>
+      <p th:text="#{intro_text}"></p>
+    </div>
+</body>
+</html>
