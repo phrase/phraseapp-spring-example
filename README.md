@@ -2,4 +2,6 @@
 
 This code demonstrates how to implement basic localization for a Spring web application and connect it with the [PhraseApp In-Context Editor](https://phraseapp.com/).
 
+Read the full blog post: [How To Localize Your Spring Apps Like A Pro](https://phraseapp.com/blog/posts/how-to-localize-your-spring-apps-like-a-pro)
+
 Thanks to Szilard from [BeeRides](https://beerides.com).
