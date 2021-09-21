@@ -7,3 +7,7 @@ Read the full blog post: [How To Localize Your Spring Apps Like A Pro](https://p
 ---
 
 Thanks to Szilard Bozoki ([BeeRides](https://beerides.com)) for suggesting this integration and providing example Spring code on it!
+
+## Get help / support
+
+Please contact [support@phrase.com](mailto:support@phrase.com?subject=[GitHub]%20) and we can take more direct action toward finding a solution.
